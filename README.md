@@ -3,7 +3,7 @@
 I'm a 22 year old Software Engineering Student from Sri Lanka.
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)<br>
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-328880%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written%20Over-400000%20lines%20of%20code-blue)
 <!--
 **Randula98/Randula98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
