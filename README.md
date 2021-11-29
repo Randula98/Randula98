@@ -9,3 +9,4 @@ I'm a 22 year old Information Technology Student from Sri Lanka.
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
 ![GitHub User's stars](https://img.shields.io/github/stars/Randula98?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 
+![Randula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randula98&theme=dark&show_icons=true)
