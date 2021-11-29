@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a 22 year old Software Engineering Student from Sri Lanka.
 
-![](banner.jpg)
+![](banner.png)
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)<br>
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written%20Over-413298%20lines%20of%20code-blue)
