@@ -11,7 +11,7 @@ I'm a 22 year old Information Technology Student from Sri Lanka.
 ![GitHub followers](https://img.shields.io/github/followers/Randula98?label=Follow&style=social)<br>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/RMawaththa?label=Follow)](https://twitter.com/intent/follow?screen_name=RMawaththa)
-[![Linkedin: Randula Mawaththa](https://img.shields.io/badge/-Randula Mawaththa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/randula-mawaththa-6172b1201/)](https://www.linkedin.com/in/randula-mawaththa-6172b1201/)
+
 
 ![Randula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randula98&theme=dark&show_icons=true)
 
