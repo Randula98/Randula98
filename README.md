@@ -12,7 +12,7 @@ I'm a 22 year old Information Technology Student from Sri Lanka.
 [![Linkedin: Thushara Thiwanka](https://img.shields.io/badge/-Thushara_Thiwanaka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thushara-thiwanka/)](https://www.linkedin.com/in/thushara-thiwanka/)<br>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/RMawaththa?label=Follow)](https://twitter.com/intent/follow?screen_name=RMawaththa)
-[![Linkedin: Thushara Thiwanka](https://img.shields.io/badge/-Randula Mawaththa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thushara-thiwanka/)](https://www.linkedin.com/in/thushara-thiwanka/)<br>
+[![Linkedin: Thushara Thiwanka](https://img.shields.io/badge/-Randula-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thushara-thiwanka/)](https://www.linkedin.com/in/thushara-thiwanka/)<br>
 
 ![Randula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randula98&theme=dark&show_icons=true)
 
