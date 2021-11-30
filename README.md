@@ -13,8 +13,9 @@ I'm a 22 year old Information Technology Student from Sri Lanka.
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/randula98/)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=RMawaththa)
 [![Linkedin: Randula Mawaththa](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randula-mawaththa-6172b1201/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:randula98@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/randula_98/)
+<br>
+[![Gmail](https://img.shields.io/badge/Randula98@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:randula98@gmail.com)
 <br>
 
 [![Randula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randula98&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
@@ -84,4 +85,5 @@ I'm a 22 year old Information Technology Student from Sri Lanka.
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randula98&langs_count=8&theme=github_dark)](https://github.com/Randula98/github-readme-stats)
 
+##
 
