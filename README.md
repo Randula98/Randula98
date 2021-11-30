@@ -14,12 +14,7 @@ I'm a 22 year old Information Technology Student from Sri Lanka.
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=RMawaththa)
 [![Linkedin: Randula Mawaththa](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randula-mawaththa-6172b1201/)<br>
 
-<!--
-![Randula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randula98&theme=dark&show_icons=true)
--->
 [![Randula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randula98&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ## Skills & Experience !!:grinning:
 
@@ -67,3 +62,5 @@ I'm a 22 year old Information Technology Student from Sri Lanka.
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randula98&layout=compact)](https://github.com/Randula98/github-readme-stats)
