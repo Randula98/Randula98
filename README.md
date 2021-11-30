@@ -88,5 +88,5 @@ I'm a 22 year old Information Technology Student from Sri Lanka.
 <!-->
 [![Randula's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Randula98?theme=dark)](https://github.com/Randula98/github-readme-stats)
 -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Randula98)](https://github.com/Randula98/github-readme-stats)
+
 
