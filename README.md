@@ -19,8 +19,6 @@ I'm a 22 year old Information Technology Student from Sri Lanka.
 -->
 [![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Randula98&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Randula98&repo=github-readme-stats&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 ## Skills & Experience !!:grinning:
