@@ -18,7 +18,7 @@ I'm a 22 year old Information Technology Student from Sri Lanka.
 
 ## Skills & Experience !!:grinning:
 
-<img src = "" align = "right"></img>
+<img src = "https://github.com/Randula98/Randula98/blob/main/giphy.gif" align = "right"></img>
 
 🔵<strong> Programming Languages</strong>
 
