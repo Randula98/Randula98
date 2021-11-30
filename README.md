@@ -1,4 +1,4 @@
-### Hi there <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "20px"></img>
+## Hi there <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "20px"></img>
 I'm a 22 year old Information Technology Student from Sri Lanka.
 
 <img src = "https://github.com/Randula98/Randula98/blob/39fc2daf28f178c9f1ecb540439a35b9f349e851/banner.png"></img>
