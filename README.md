@@ -3,7 +3,6 @@ I'm a 22 year old Information Technology Student from Sri Lanka.
 
 <img src = "https://github.com/Randula98/Randula98/blob/39fc2daf28f178c9f1ecb540439a35b9f349e851/banner.png"></img>
 ## Overall !!:sunglasses:
-<br>
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written%20Over-486298%20lines%20of%20code-blue)
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
@@ -16,4 +15,4 @@ I'm a 22 year old Information Technology Student from Sri Lanka.
 
 ![Randula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randula98&theme=dark&show_icons=true)
 
-
+## Skills & Experience !!:sunglasses:
