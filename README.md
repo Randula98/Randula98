@@ -88,5 +88,5 @@ I'm a 22 year old Information Technology Student from Sri Lanka.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randula98&langs_count=8&theme=github_dark)](https://github.com/Randula98/github-readme-stats)
 
 ##
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanelkapramuditha&theme=darkhub" alt="shanelkapramuditha" /></a> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shanelkapramuditha&theme=dark" alt="shanelkapramuditha" /></p>
 ## Last Updated - 02/12/2021
