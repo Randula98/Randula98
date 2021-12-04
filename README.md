@@ -89,8 +89,8 @@ I'm a 22 year old Information Technology Student from Sri Lanka.
 
 ##
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=Randula98&theme=github_dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=Randula98&theme=algolia)
 
 ##
 
-## Last Updated - 02/12/2021
+Last Updated - 02/12/2021
