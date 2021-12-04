@@ -88,6 +88,9 @@ I'm a 22 year old Information Technology Student from Sri Lanka.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randula98&langs_count=8&theme=github_dark)](https://github.com/Randula98/github-readme-stats)
 
 ##
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Randula98&theme=dark"></p>
+
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=Randula98&theme=github_dark)
+
 ##
+
 ## Last Updated - 02/12/2021
