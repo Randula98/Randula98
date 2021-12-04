@@ -1,4 +1,4 @@
-## Hi there <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "20px"></img>
+## Hi There <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "20px"></img>
 I'm a 22 year old Information Technology Student from Sri Lanka.
 
 <img src = "https://github.com/Randula98/Randula98/blob/39fc2daf28f178c9f1ecb540439a35b9f349e851/banner.png"></img>
@@ -22,7 +22,7 @@ I'm a 22 year old Information Technology Student from Sri Lanka.
 
 ## Skills & Experience !!:grinning:
 
-<img src = "https://github.com/Randula98/Randula98/blob/main/giphy.gif" align = "right" width = "300px"></img>
+<img src = "https://github.com/Randula98/Randula98/blob/main/giphy.gif" align = "right" style = "width:280px; padding-right:50px;"> </img>
 
 🔵<strong> Programming Languages</strong>
 
@@ -36,6 +36,8 @@ I'm a 22 year old Information Technology Student from Sri Lanka.
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 <br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 🔵<strong> Databases</strong>
 
@@ -85,5 +87,12 @@ I'm a 22 year old Information Technology Student from Sri Lanka.
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randula98&langs_count=8&theme=github_dark)](https://github.com/Randula98/github-readme-stats)
 
+
+## 🔵<strong> Commitment on Github 🐱</strong>
+<br>
+
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=Randula98&theme=algolia)
+
 ##
 
+Last Updated - 04/12/2021
