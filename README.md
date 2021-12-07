@@ -1,5 +1,5 @@
 ## Hi There <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "20px"></img>
-I'm a 23 year old Information Technology Student from Sri Lanka.
+I'm a 23 year old Software Engineering Student from Sri Lanka.
 
 <img src = "https://github.com/Randula98/Randula98/blob/main/banner.png"></img>
 ## Overall !!:sunglasses:
@@ -95,4 +95,4 @@ I'm a 23 year old Information Technology Student from Sri Lanka.
 
 ##
 
-Last Updated - 04/12/2021
+Last Updated - 07/12/2021
