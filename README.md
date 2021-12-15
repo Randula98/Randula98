@@ -4,7 +4,7 @@ I'm a 23 year old Software Engineering Student from Sri Lanka.
 <img src = "https://github.com/Randula98/Randula98/blob/main/banner.png"></img>
 ## Overall !!:sunglasses:
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written%20Over-500-thousand-lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written%20Over%20500%20thousand%20lines%20of%20code-blue)
 ![](https://komarev.com/ghpvc/?username=randula98&color=orange&style=flat-plastic)
 ![GitHub User's stars](https://img.shields.io/github/stars/Randula98?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
 ![GitHub followers](https://img.shields.io/github/followers/Randula98?label=Follow&style=social)
