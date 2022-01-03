@@ -95,8 +95,8 @@ I'm a 23 year old Software Engineering Student from Sri Lanka.
 
 ##
 
-<h2><strong>Currunt Mood😋</strong></h2>
-<h3><strong>Inspired & Motivaed</strong></h3>
+<h2>Currunt Mood😋</h2>
+<h3>Inspired & Motivaed</h3>
 
 ![Nice](https://github.com/Randula98/Randula98/blob/main/Ht60.gif)
 
