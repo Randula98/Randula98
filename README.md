@@ -93,9 +93,9 @@ I'm a 23 year old Software Engineering Student from Sri Lanka.
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=Randula98&theme=algolia)
 
-##
 
-<h2>  🔵Currunt Mood😋</h2>
+
+## 🔵<strong> Currunt Mood😋<strong> 
 <h3>Inspired🤩 & Motivated😎</h3>
 
 ![Nice](https://github.com/Randula98/Randula98/blob/main/Ht60.gif)
