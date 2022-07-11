@@ -115,6 +115,8 @@ I'm a 23 year old Software Engineering Student from Sri Lanka.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
+<br>
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randula98&langs_count=8&theme=github_dark)](https://github.com/Randula98/github-readme-stats)
