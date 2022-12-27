@@ -1,7 +1,6 @@
 ## Hey There
 I'm a 23 year old Software Engineering Student from Sri Lanka.
 
-<img src = "#"></img>
 ## Overall !!:sunglasses:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written%20Over-4%20million%20lines%20of%20code-blue)
