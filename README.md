@@ -17,7 +17,8 @@ I'm a 23 year old Software Engineering Student from Sri Lanka.
 [![Gmail](https://img.shields.io/badge/Randula98@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:randula98@gmail.com)
 <br>
 
-[![Randula's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randula98&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+//git stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ## Skills & Experience !!:grinning:
 
