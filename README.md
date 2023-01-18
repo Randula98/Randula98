@@ -119,7 +119,7 @@ I'm a 23 year old Software Engineering Student from Sri Lanka.
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randula98&langs_count=8&theme=github_dark)](https://github.com/Randula98/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randula98)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🔵<strong> Commitment on Github 🐱</strong>
