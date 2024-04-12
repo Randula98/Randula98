@@ -1,7 +1,7 @@
 ## Hey There
 I'm a 26 year old Software Engineering Student from Sri Lanka.
 
-## Overall
+## Overall 😎
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written%20Over-4%20million%20lines%20of%20code-blue)
 ![](https://komarev.com/ghpvc/?username=randula98&color=orange&style=flat-plastic)
