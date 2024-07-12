@@ -126,10 +126,10 @@ I'm a 26 year old Software Engineering Student from Sri Lanka.
 
 
 ## 🔵<strong> Currunt Mood😋<strong> 
-<h3>Inspired🤩 & Motivated😎</h3>
+<h3>Inspired 🤩 & Motivated 😎</h3>
 
 ![Nice](https://github.com/Randula98/Randula98/blob/main/Ht60.gif)
 
 ##
 
-Last Updated - 18/01/2023
+Last Updated - 12/07/2024
