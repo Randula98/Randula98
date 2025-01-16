@@ -118,13 +118,6 @@ I'm a 26 year old Software Engineer from Sri Lanka.
 <br>
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-## 🔵<strong> Commitment on Github 🐱</strong>
-<br>
-
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=Randula98&theme=algolia)
-
-
-
 ## 🔵<strong> Currunt Mood😋<strong> 
 <h3>Inspired 🤩 & Motivated 😎</h3>
 
