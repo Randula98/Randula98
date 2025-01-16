@@ -1,5 +1,5 @@
 ## Hey There
-I'm a 26 year old Software Engineering Student from Sri Lanka.
+I'm a 26 year old Software Engineer from Sri Lanka.
 
 ## Overall 😎
 
@@ -132,4 +132,4 @@ I'm a 26 year old Software Engineering Student from Sri Lanka.
 
 ##
 
-Last Updated - 12/07/2024
+Last Updated - 16/01/2025
